@@ -9,4 +9,4 @@ In dieser Repository sind folgende Unterlagen zum Thema "Logical Clocks and Elec
 
 [3. Election "in a nutshell"](https://github.com/digitalhhz/DSTutorial_LogicalClocks_and_Election/blob/main/InfoSheet%20Election.pdf)
 
-[4. Logical Clockn "in a nutshell"](https://github.com/digitalhhz/DSTutorial_LogicalClocks_and_Election/blob/main/InfoSheet%20Logical%20Clocks.pdf)
+[4. Logical Clock "in a nutshell"](https://github.com/digitalhhz/DSTutorial_LogicalClocks_and_Election/blob/main/InfoSheet%20Logical%20Clocks.pdf)
