@@ -1,7 +1,7 @@
 # DSTutorial_LogicalClocks_and_Election
 Tutorial über "Logical Clocks and Election" für das DBE Modul "Distributed Systems" 
 
-In dieser Repository sind folgende Unterlagen zum Thema "Logical Clocks and Election" vorhanden:
+In diesem Repository sind folgende Unterlagen zum Thema "Logical Clocks and Election" vorhanden:
 
 [1. Video Tutorial](https://youtu.be/wZsFEO5KX2k)
 
