@@ -5,8 +5,8 @@ In dieser Repository sind folgende Unterlagen zum Thema "Logical Clocks and Elec
 
 [1. Video Tutorial](https://youtu.be/wZsFEO5KX2k)
 
-[2. Slides zum Video](https://github.com/digitalhhz/DSTutorial_Fault-tolerance/blob/master/Fault%20Tolerance_Pr%C3%A4si.pdf)
+[2. Slides zum Video](https://github.com/digitalhhz/DSTutorial_LogicalClocks_and_Election/blob/main/Folien%20-%20Logical%20Clocks%20_%20Election.pdf)
 
-[3. Fault tolerance "in a nutshell"](https://github.com/digitalhhz/DSTutorial_Fault-tolerance/blob/master/InfoSheet_Fault%20Tolerance.pdf)
+[3. Election "in a nutshell"](https://github.com/digitalhhz/DSTutorial_LogicalClocks_and_Election/blob/main/InfoSheet%20Election.pdf)
 
-
+[4. Election "in a nutshell"](https://github.com/digitalhhz/DSTutorial_LogicalClocks_and_Election/blob/main/InfoSheet%20Logical%20Clocks.pdf)
